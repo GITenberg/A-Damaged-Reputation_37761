@@ -1,0 +1,32 @@
+_repo: A-Damaged-Reputation_37761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Fans of classic westerns will appreciate this unique take on the genre.
+  Set in the wide open prairies of western Canada, A Damaged Reputation focuses on
+  a rancher who finds himself stuck in a perilously tricky situation. Will Brooke
+  be able to restore his once-unimpeachable standing before it's too late?
+gutenberg_issued: '2011-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranchers -- Canada, Western -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Canada -- Fiction'
+- !lcsh 'Love stories'
+title: A Damaged Reputation
+url: http://www.gutenberg.org/ebooks/37761
